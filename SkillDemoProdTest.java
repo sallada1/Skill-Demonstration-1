@@ -3,7 +3,7 @@ import org.junit.*;
 public class SkillDemoProdTest {
     @Test
     public void product(){
-        assertEquals(9,SkillDemoProd.product(2, 4));
+        assertEquals(8,SkillDemoProd.product(2, 4));
     }
 
 }
